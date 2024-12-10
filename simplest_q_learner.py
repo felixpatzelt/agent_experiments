@@ -1,4 +1,6 @@
-"""A simple q-learnign experiment"""
+"""A simple q-learning experiment
+by Felix Patzelt 2024
+"""
 from typing import List
 import numpy as np
 

@@ -1,4 +1,6 @@
-"""A super simple test scenario"""
+"""A super simple test scenario
+by Felix Patzelt 202by Felix Patzelt 2024
+"""
 from typing import List
 
 class find_the_keys():
